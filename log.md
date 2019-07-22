@@ -6,4 +6,4 @@
 
 **Thoughts**: The work today went alright just hope to get the project landing page done soon.
 
-**Link(s) to work**: No links to post yet, hopefully will have something soon!
+**Link(s) to work**: https://github.com/camscoderepo/capstone-coding-camp is my fork but we have no link to a project site yet.
