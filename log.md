@@ -33,6 +33,7 @@
 ### Day 5: July 25th (Thursday)
 
 **Today's Progress**: Today was actually a very productive day, I finished the mission component on the landing page of my group project so that is done now. Hopefully things continue to be this productive.
+
 **Thoughts**: Coded for a few hours and did some job searching and actually may have gotten somewhere finally with that.
 
 **Link(s) to work**:
