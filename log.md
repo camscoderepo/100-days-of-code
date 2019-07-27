@@ -37,3 +37,12 @@
 **Thoughts**: Coded for a few hours and did some job searching and actually may have gotten somewhere finally with that.
 
 **Link(s) to work**:
+
+### Day 6: July 26th (Friday)
+
+**Today's Progress**: Today has been an all day long affair, in fact I am still doing stuff and will be well into the night. I am trying to get a few demo AWS projects done to show a potential employer. So far just have an example almost done but its my first day and I have about a week. It's like my own solo Hackathon!
+
+**Thoughts**: Setting up things on AWS has been a lot of reading documentation haven't done much coding other than pasting it and naming some variables.
+
+**Link(s) to work**: http://wildrydes-cameron-roman.s3-website-us-west-1.amazonaws.com/
+
