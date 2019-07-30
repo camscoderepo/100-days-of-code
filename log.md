@@ -46,3 +46,31 @@
 
 **Link(s) to work**: http://wildrydes-cameron-roman.s3-website-us-west-1.amazonaws.com/
 
+
+### Day 7: July 27th (Saturday)
+
+**Today's Progress**: Started my second aws project, the first one on my own. This one will be built using the serverless framework and is a coding evaluator. Hopefully I will be finished soon.
+
+**Thoughts**: This project has been the craziest project and the internet as the only resource makes it incredibly hard. I also don't have a lot of time to finish but hopefully we can get it done.
+
+**Link(s) to work**: 
+
+
+### Day 8: July 28th (Sunday)
+
+**Today's Progress**: Kept working on my second project and got a lot done on it but also got very stuck. That's one thing that sucks about serverless, since it's so new there isn't much help anywhere when things go wrong. I have to just keep working.
+
+**Thoughts**: This has been a challenging start for sure but hopefully I get through it.
+
+**Link(s) to work**: 
+
+
+### Day 9: July 29th (Monday)
+
+**Today's Progress**: Kept working on my second project and got a lot done on it but also got very stuck. That's one thing that sucks about serverless, since it's so new there isn't much help anywhere when things go wrong. I have to just keep working.
+
+**Thoughts**: This has been a challenging start for sure but hopefully I get through it.
+
+**Link(s) to work**: 
+
+
