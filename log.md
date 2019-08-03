@@ -73,4 +73,35 @@
 
 **Link(s) to work**: 
 
+### Day 9: July 30th (Tuesday)
+
+**Today's Progress**: Bought an aws course to understand the things that seem to be already challenging to understand. It has helped some so far but I will have to see how much it helps in the long run. Started project in the course to code alongside my aws project.
+
+**Thoughts**: This is hard to keep doing, im going to have to slow down some soon or else I will get burnt out.
+
+**Link(s) to work**: 
+
+### Day 9: July 31st (Wednesday)
+
+**Today's Progress**: Aws proves to keep throwing challenges my way and I am starting to feel defeated, at least for the moment. I have worked through many errors but there is still so much to understand and learn that I keep screwing really simple things up.
+
+**Thoughts**: I may have to come up with a simpler project if I can't figure out how to progress with my code evaluator.
+
+**Link(s) to work**: 
+
+### Day 9: August 1st (Thursday)
+
+**Today's Progress**: Didn't code much today, just tried working through bugs without any success.
+
+**Thoughts**: Spemething isn't clicking for me and this stuff isn't getting simpler. Will try again tomorrow.
+
+**Link(s) to work**: 
+
+### Day 9: August 2nd (Friday)
+
+**Today's Progress**: Today was really challenging to get anything done. I honestly don't know if I worked for even an hour. Helped fix a bug in one of my group projects though.
+**Thoughts**: Aws is still proving to have it's challenges but I have grown immensely in the last month alone so I just have to keep at it.
+
+**Link(s) to work**: 
+
 
