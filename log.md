@@ -104,4 +104,29 @@
 
 **Link(s) to work**: 
 
+### Day 14: August 3rd (Saturday)
 
+**Today's Progress**: I think I overworked myself because I have only been able to read about coding topics today. My life is so involved in this, I end up working in some way or another everyday but it hasn't been a lot lately to be honest.
+**Thoughts**: I need to keep going but I think I will take it easy the next couple of days and only do what I can
+
+**Link(s) to work**: 
+### Day 15: August 4th (Sunday)
+
+**Today's Progress**: I read some code related articles today and worked on my resume a ton. I had to write and quantify coding examples I have done because I don't have any good examples down currently.
+**Thoughts**: i really hope to have a job soon because things are really becoming difficult with finances.
+
+**Link(s) to work**:
+
+### Day 16: August 5th (Monday)
+
+**Today's Progress**: Started working on serverless project again, having difficulties though. Progress has been incredibly slow with this project and I am going back to the drawing board and changing my game plan.
+**Thoughts**: I am going to try going a different route with this project and see where I can get.
+
+**Link(s) to work**
+
+### Day 17: August 6th (Tuesday)
+
+**Today's Progress**: Rethinking my project I think I need to build my scraper first. Then I can hook the scraper up to my serverless app to test code once I finish that too.
+**Thoughts**: This has been the most challenging project I have worked on but I need to start believing I can actually succeed with it or I probably never will.
+
+**Link(s) to work**
